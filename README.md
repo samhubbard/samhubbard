@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning the finer things (Unreal).
 - 💞️ I’m looking to collaborate on Unreal.
 - 📫 How to reach me hubbardsr@alumni.fullsail.edu
+- 😑 Hopefully there will be something cool to be announced soon.
 
 Let's be bad guys...
 
