@@ -7,7 +7,6 @@
 
 Let's be bad guys...
 
-Fun fact: Unreal > Unity
 
 <!---
 samhubbard/samhubbard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
