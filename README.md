@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @samhubbard
-- 👀 I’m interested in game development in Unreal.
-- 🌱 I’m currently learning the finer things (Unreal).
-- 💞️ I’m looking to collaborate on <@##D$$##>.
-- 📫 How to reach me hubbardsr@alumni.fullsail.edu
+- 👀 I’m interested in game development.
+- 🌱 I’m currently learning the finer things (aka Unreal).
+- 💞️ I’m looking to collaborate on <($%(@#@*&)%)#(#(@!&&###@>.
+- 📫 How to reach me hubbardsr@alumni.fullsail.edu - I check that sometimes
 - 😑 Hopefully there will be something cool to be announced soon.
 
 Let's be bad guys...
