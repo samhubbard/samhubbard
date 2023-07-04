@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @samhubbard
-- 👀 I’m interested in game development.
-- 🌱 I’m currently working on a coop farming game.
-- 💞️ I’m looking to collaborate on <($%(@#@*&)%)#(#(@!&&###@>.
-- 📫 How to reach me ... maybe try on here.
-- 😑 Hopefully there will be something cool to be announced soon.
-
-Let's be bad guys...
-
+- 👀 I’m primarily a game programmer, but I want to get better at art. Someday my art will be the prettiest art of all the art...
+- 💞️ I’m looking to collaborate on <($%(@#@*&)%)#(#(@!&&###@>, I have no idea what to work on.
+- 📫 How to reach me ... maybe try on here, it might notify me.
+- 😑 Hopefully there will be something cool to be announced soon, but not likely.
 
 <!---
 samhubbard/samhubbard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
